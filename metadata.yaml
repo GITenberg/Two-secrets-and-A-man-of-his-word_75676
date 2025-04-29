@@ -15,6 +15,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '58096'
     url: http://www.gutenberg.org/2009/agents/58096
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stretton, Hesba
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2440
     wikipedia: https://en.wikipedia.org/wiki/Hesba_Stretton
 description: 'Reading ease score: 76.3 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75676#Two-secrets-and-A-man-of-his-word
 gutenberg_bookshelf: 'Browsing: Fiction'
 gutenberg_issued: '2025-03-21'
 gutenberg_type: Text
